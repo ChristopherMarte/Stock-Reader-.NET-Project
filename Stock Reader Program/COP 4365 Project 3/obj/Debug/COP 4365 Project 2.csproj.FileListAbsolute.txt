@@ -1,0 +1,11 @@
+C:\Users\chris\source\repos\COP 4365 Project 2 Final Version CMC COPY\COP 4365 Project 2\COP 4365 Project 2\bin\Debug\COP 4365 Project 2.exe.config
+C:\Users\chris\source\repos\COP 4365 Project 2 Final Version CMC COPY\COP 4365 Project 2\COP 4365 Project 2\bin\Debug\COP 4365 Project 2.exe
+C:\Users\chris\source\repos\COP 4365 Project 2 Final Version CMC COPY\COP 4365 Project 2\COP 4365 Project 2\bin\Debug\COP 4365 Project 2.pdb
+C:\Users\chris\source\repos\COP 4365 Project 2 Final Version CMC COPY\COP 4365 Project 2\COP 4365 Project 2\obj\Debug\COP 4365 Project 2.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\COP 4365 Project 2 Final Version CMC COPY\COP 4365 Project 2\COP 4365 Project 2\obj\Debug\COP_4365_Project_2.Form_displayCharts.resources
+C:\Users\chris\source\repos\COP 4365 Project 2 Final Version CMC COPY\COP 4365 Project 2\COP 4365 Project 2\obj\Debug\COP_4365_Project_2.Form_stockLoader.resources
+C:\Users\chris\source\repos\COP 4365 Project 2 Final Version CMC COPY\COP 4365 Project 2\COP 4365 Project 2\obj\Debug\COP_4365_Project_2.Properties.Resources.resources
+C:\Users\chris\source\repos\COP 4365 Project 2 Final Version CMC COPY\COP 4365 Project 2\COP 4365 Project 2\obj\Debug\COP 4365 Project 2.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\COP 4365 Project 2 Final Version CMC COPY\COP 4365 Project 2\COP 4365 Project 2\obj\Debug\COP 4365 Project 2.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\COP 4365 Project 2 Final Version CMC COPY\COP 4365 Project 2\COP 4365 Project 2\obj\Debug\COP 4365 Project 2.exe
+C:\Users\chris\source\repos\COP 4365 Project 2 Final Version CMC COPY\COP 4365 Project 2\COP 4365 Project 2\obj\Debug\COP 4365 Project 2.pdb
